@@ -1,0 +1,38 @@
+﻿@model List<LibraryManagementSystem.Models.BorrowRecord>
+@{
+    ViewData["Title"] = "Manage Borrowings";
+}
+
+<h2>Borrow Operations</h2>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p
+<p>List of borrow operations:</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book</th>
+            <th>User</th>
+            <th>Borrow Date</th>
+            <th>Return Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BookId</td>
+                <td>@item.UserId</td>
+                <td>@item.BorrowDate.ToShortDateString()</td>
+                <td>@item.ReturnDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
