@@ -1,0 +1,25 @@
+﻿@model IEnumerable<LibraryManagementSystem.Models.Book>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Published Date</th>
+            <th>Is Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.PublishedDate.ToShortDateString()</td>
+                <td>@(book.IsAvailable ? "Yes" : "No")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Add New Book</a>

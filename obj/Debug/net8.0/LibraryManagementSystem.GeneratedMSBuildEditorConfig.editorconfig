@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Berat/Desktop/Projeler/LibraryManagementSystem/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Berat/Desktop/Projeler/LibraryManagementSystem/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Berat/Desktop/Projeler/LibraryManagementSystem/Views/Borrow/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9ycm93XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

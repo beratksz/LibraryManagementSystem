@@ -1,11 +1,3 @@
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cache
-C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cs
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\appsettings.json
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.staticwebassets.runtime.json
@@ -126,6 +118,15 @@ C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\runtime
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cache
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cs
+C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Berat\Desktop\Projeler\LibraryManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
